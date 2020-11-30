@@ -1,0 +1,430 @@
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\appsettings.Development.json
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\appsettings.json
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Ecommerces_asp.net.exe
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Ecommerces_asp.net.deps.json
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Ecommerces_asp.net.runtimeconfig.json
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Ecommerces_asp.net.runtimeconfig.dev.json
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Ecommerces_asp.net.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Ecommerces_asp.net.pdb
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Ecommerces_asp.net.Views.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Ecommerces_asp.net.Views.pdb
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Ecommerces_asp.net.AssemblyInfoInputs.cache
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Ecommerces_asp.net.AssemblyInfo.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Ecommerces_asp.net.RazorAssemblyInfo.cache
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Ecommerces_asp.net.RazorAssemblyInfo.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Ecommerces_asp.net.TagHelpers.input.cache
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Ecommerces_asp.net.TagHelpers.output.cache
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Ecommerces_asp.net.RazorCoreGenerate.cache
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_FooterPartial.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_HeaderPartial.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Ecommerces_asp.net.RazorTargetAssemblyInfo.cache
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Ecommerces_asp.net.RazorTargetAssemblyInfo.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Ecommerces_asp.net.Views.pdb
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\staticwebassets\Ecommerces_asp.net.StaticWebAssets.Manifest.cache
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\staticwebassets\Ecommerces_asp.net.StaticWebAssets.xml
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Ecommerces_asp.net.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Ecommerces_asp.net.pdb
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Ecommerces_asp.net.genruntimeconfig.cache
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Ecommerces_asp.net.csproj.CopyComplete
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Views\Home\about.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Views\Home\checkout.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Views\Home\contact.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Views\Home\detail.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Views\Home\login.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Views\Home\offer.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Views\Home\product.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Views\Home\registered.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Humanizer.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Menu.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\Index.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Ecommerces_asp.net.csproj.CoreCompileInputs.cache
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Ecommerces_asp.net.MvcApplicationPartsAssemblyInfo.cache
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Create.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Delete.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Details.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Edit.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Index.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Customers\Create.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Customers\Delete.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Customers\Details.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Customers\Edit.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Customers\Index.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Orders\Create.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Orders\Delete.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Orders\Details.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Orders\Edit.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Orders\Index.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\OrderDetails\Create.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\OrderDetails\Delete.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\OrderDetails\Details.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\OrderDetails\Edit.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\OrderDetails\Index.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Delete.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Details.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Edit.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\suppliers\Create.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\suppliers\Delete.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\suppliers\Details.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\suppliers\Edit.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\suppliers\Index.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout1.cshtml.g.cs
+T:\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Ecommerces_asp.net.csprojAssemblyReference.cache
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\appsettings.json
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Ecommerces_asp.net.exe
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Ecommerces_asp.net.deps.json
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Ecommerces_asp.net.runtimeconfig.json
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Ecommerces_asp.net.runtimeconfig.dev.json
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Ecommerces_asp.net.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Ecommerces_asp.net.pdb
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Ecommerces_asp.net.Views.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Ecommerces_asp.net.Views.pdb
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Ecommerces_asp.net.csprojAssemblyReference.cache
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Ecommerces_asp.net.AssemblyInfoInputs.cache
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Ecommerces_asp.net.AssemblyInfo.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Ecommerces_asp.net.csproj.CoreCompileInputs.cache
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Ecommerces_asp.net.MvcApplicationPartsAssemblyInfo.cache
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Ecommerces_asp.net.RazorAssemblyInfo.cache
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Ecommerces_asp.net.RazorAssemblyInfo.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Ecommerces_asp.net.TagHelpers.input.cache
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Ecommerces_asp.net.TagHelpers.output.cache
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Ecommerces_asp.net.RazorCoreGenerate.cache
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\Index.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Create.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Delete.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Details.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Edit.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Index.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Customers\Create.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Customers\Delete.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Customers\Details.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Customers\Edit.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Customers\Index.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\OrderDetails\Create.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\OrderDetails\Delete.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\OrderDetails\Details.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\OrderDetails\Edit.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\OrderDetails\Index.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Orders\Create.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Orders\Delete.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Orders\Details.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Orders\Edit.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Orders\Index.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Delete.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Details.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Edit.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout1.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\suppliers\Create.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\suppliers\Delete.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\suppliers\Details.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\suppliers\Edit.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\suppliers\Index.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Views\Home\about.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Views\Home\checkout.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Views\Home\contact.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Views\Home\detail.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Views\Home\login.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Views\Home\offer.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Views\Home\product.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Views\Home\registered.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_FooterPartial.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_HeaderPartial.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Menu.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Ecommerces_asp.net.RazorTargetAssemblyInfo.cache
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Ecommerces_asp.net.RazorTargetAssemblyInfo.cs
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Ecommerces_asp.net.Views.pdb
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Ecommerces_asp.net.csproj.CopyComplete
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\staticwebassets\Ecommerces_asp.net.StaticWebAssets.Manifest.cache
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\staticwebassets\Ecommerces_asp.net.StaticWebAssets.xml
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Ecommerces_asp.net.dll
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Ecommerces_asp.net.pdb
+D:\visual\doan\New folder\Ecommerces_asp.net\Ecommerces_asp.net\obj\Debug\netcoreapp3.1\Ecommerces_asp.net.genruntimeconfig.cache
